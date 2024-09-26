@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cbuccella
-- 👀 I’m interested in VR development and learning application. 
-- 🌱 I’m currently learning C# and the Unity engine. 
-- 💞️ I’m looking to collaborate on VR and learning applications. 
+- 👀 I’m a Learning Experience Designer and AI Enthuaist.  
+- 🌱 I’m currently building learning things of all shapes and sizes. 
+- 💞️ I’m looking to collaborate with anyone!
 - 📫 How to reach me at chrisbuccella@gmail.com
 
 <!---
